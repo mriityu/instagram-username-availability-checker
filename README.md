@@ -1,13 +1,13 @@
 # instagram-username-availability-checker
 
-## Username Checker Manually
+No need to use proxies if the usernames are less than 50
 
---- UsernameCheckerManual.py  (script)
+## Username Checker
 
-## Username Checker Automatically
-
---- UsernameCheckerAuto.py  (script)
+--- UsernameChecker.py  (script)
 
 --- usernames.txt (list of usernames)
+
+--- proxies.txt (optional)
 
 --- output.csv (result)
